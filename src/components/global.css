@@ -1,0 +1,41 @@
+  :root {
+
+    /*Pattern*/
+
+    /*--highlight-color: chartreuse;
+    --highlight-color-2:#44c718;
+    --main-bg: #222;
+    --secondary-bg: #444;
+    --main-font-color: #eee;*/
+
+    --highlight-color: rgba(0, 217, 255);
+    --highlight-color-2:rgb(0, 217, 255);
+    --main-bg: black;
+    --secondary-bg: #444;
+    --main-font-color: #eee;
+
+    /*Page*/
+    --page-bg-color: var(--main-bg);
+    --page-title-color: var(--main-font-color);
+    --container-border: var(--highlight-color);
+    --sub-title-color: var(--highlight-color);
+    --icon-color: var(--highlight-color);
+    --icon-bg-color: var(--secondary-bg);
+
+    /*Button*/
+    --button-bg-color: var(--highlight-color);
+    --button-text-color: var(--secondary-bg);
+
+    --button-bg-hover-color: var(--highlight-color-2);
+    --button-text-hover-color: var(--main-bg);
+
+    /*Input*/
+    --input-text-color: var(--main-font-color);
+    --input-bg-color: var(--secondary-bg);
+
+    /*Task*/
+    --task-bg-color: var(--secondary-bg);
+    --task-text-color: var(--main-font-color);
+    
+  }
+  
