@@ -1,13 +1,13 @@
   :root {
 
     /*Pattern*/
-
-    /*--highlight-color: chartreuse;
+/*
+    --highlight-color: chartreuse;
     --highlight-color-2:#44c718;
     --main-bg: #222;
     --secondary-bg: #444;
-    --main-font-color: #eee;*/
-
+    --main-font-color: #eee;
+*/
     --highlight-color: rgba(0, 217, 255);
     --highlight-color-2:rgb(0, 217, 255);
     --main-bg: black;
